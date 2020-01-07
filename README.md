@@ -1,7 +1,7 @@
 # Display
 
 ## Inline
-
+//(texto para textar git pull em outro pojeto)
 - Faz com que os elemento fiquem um do lado do outro;
 - O elemento não aceita `width` e `height`;
 - Seu tamanho é definido pelo contúdo que ele comtém.
